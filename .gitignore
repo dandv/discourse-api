@@ -8,6 +8,7 @@ lib-cov
 *.gz
 
 .idea/
+config.json
 test/config.json
 
 .vagrant/
